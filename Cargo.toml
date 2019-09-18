@@ -19,7 +19,7 @@ categories = ["data-structures", "no-std"]
 travis-ci = { repository = "fizyk20/generic-array" }
 
 [lib]
-name = "generic_array"
+name = "genericarray"
 
 [features]
 more_lengths = []
